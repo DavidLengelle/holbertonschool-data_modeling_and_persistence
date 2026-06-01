@@ -1,0 +1,2 @@
+# SQLite databases (local test files, not meant to be committed)
+*.db
